@@ -16,31 +16,31 @@ There are 179 train samples in total, no transfer learning, no data augmentation
 Following is the result for Model A:
 <table>
 <tr><th>input</th><th>output</th></tr>	
-<tr><td><img src="files/Predict/group2/chengmei.png" width="256px" /></td>
-<td><img src="files/output/chengmei.png" width="256px" /></td></tr>
-<tr><td><img src="files/Predict/group2/leifeng.png" width="256px" /></td>
-<td><img src="files/output/leifeng.png" width="256px" /></td></tr>
-<tr><td><img src="files/Predict/group2/marie_curie.png" width="256px" /></td>
-<td><img src="files/output/marie_curie.png" width="256px" /></td></tr>
-<tr><td><img src="files/Predict/group2/turing.png" width="256px" /></td>
-<td><img src="files/output/turing.png" width="256px" /></td></tr>
+<tr><td><img src="model_a/files/Predict/group2/chengmei.png" width="256px" /></td>
+<td><img src="model_a/files/output/chengmei.png" width="256px" /></td></tr>
+<tr><td><img src="model_a/files/Predict/group2/leifeng.png" width="256px" /></td>
+<td><img src="model_a/files/output/leifeng.png" width="256px" /></td></tr>
+<tr><td><img src="model_a/files/Predict/group2/marie_curie.png" width="256px" /></td>
+<td><img src="model_a/files/output/marie_curie.png" width="256px" /></td></tr>
+<tr><td><img src="model_a/files/Predict/group2/turing.png" width="256px" /></td>
+<td><img src="model_a/files/output/turing.png" width="256px" /></td></tr>
 </table>
 
 Following is the result for Model B:
 <table>
 <tr><th>input</th><th>output</th></tr>	
-<tr><td><img src="files/Predict/64/luxun.png" width="256px" /></td>
-<td><img src="files/output/64/luxun.png" width="256px" /></td></tr>
-<tr><td><img src="files/Predict/64/chengmei.png" width="256px" /></td>
-<td><img src="files/output/64/chengmei.png" width="256px" /></td></tr>
-<tr><td><img src="files/Predict/64/leifeng.png" width="256px" /></td>
-<td><img src="files/output/64/leifeng.png" width="256px" /></td></tr>
-<tr><td><img src="files/Predict/64/marie_curie.png" width="256px" /></td>
-<td><img src="files/output/64/marie_curie.png" width="256px" /></td></tr>
-<tr><td><img src="files/Predict/64/carson.png" width="256px" /></td>
-<td><img src="files/output/64/carson.png" width="256px" /></td></tr>
-<tr><td><img src="files/Predict/64/turing.png" width="256px" /></td>
-<td><img src="files/output/64/turing.png" width="256px" /></td></tr>
+<tr><td><img src="model_b/files/Predict/64/luxun.png" width="256px" /></td>
+<td><img src="model_b/files/output/64/luxun.png" width="256px" /></td></tr>
+<tr><td><img src="model_b/files/Predict/64/chengmei.png" width="256px" /></td>
+<td><img src="model_b/files/output/64/chengmei.png" width="256px" /></td></tr>
+<tr><td><img src="model_b/files/Predict/64/leifeng.png" width="256px" /></td>
+<td><img src="model_b/files/output/64/leifeng.png" width="256px" /></td></tr>
+<tr><td><img src="model_b/files/Predict/64/marie_curie.png" width="256px" /></td>
+<td><img src="model_b/files/output/64/marie_curie.png" width="256px" /></td></tr>
+<tr><td><img src="model_b/files/Predict/64/carson.png" width="256px" /></td>
+<td><img src="model_b/files/output/64/carson.png" width="256px" /></td></tr>
+<tr><td><img src="model_b/files/Predict/64/turing.png" width="256px" /></td>
+<td><img src="model_b/files/output/64/turing.png" width="256px" /></td></tr>
 </table>
 
 Reference
