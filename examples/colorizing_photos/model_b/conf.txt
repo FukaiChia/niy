@@ -3,9 +3,9 @@
 	
 	RateDecay: 0.95,
 
-	Load: 2,
+	Load: 0,
 
-	EpochTrain: 0,
+	EpochTrain: 800,
 	EpochDecay: 10,
 	EpochLog: 1,
 
