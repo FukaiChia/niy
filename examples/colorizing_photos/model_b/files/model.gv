@@ -1,0 +1,56 @@
+digraph nn{
+
+edge[
+	_color = pink
+	nodesep = 0.005
+	ranksep = 0.005
+	weight = 0.005
+	height = 0.005
+]
+node[
+	shape = rectangle 
+	color = gray 
+	_style = filled
+	_width = 0.1
+	_height = 0.1
+	label = ""
+	nodesep = 0.005
+	ranksep = 0.005
+]
+graph[
+	nodesep = 0.005
+	ranksep = 0.005
+	_rankdir = LR
+]
+
+
+Input [label="Input    size: [64, 64, 1]"]
+Layer1 [label="Layer 1    size: [32, 32, 8]"]
+Layer2 [label="Layer 2    size: [16, 16, 16]"]
+Layer3 [label="Layer 3    size: [8, 8, 32]"]
+Layer4 [label="Layer 4    size: [4, 4, 64]"]
+Layer5 [label="Layer 5    size: [1, 1, 256]"]
+Layer6 [label="Layer 6    size: [1, 1, 256]"]
+Layer7 [label="Layer 7    size: [4, 4, 64]"]
+Layer8 [label="Layer 8    size: [8, 8, 32]"]
+Layer9 [label="Layer 9    size: [16, 16, 16]"]
+Layer10 [label="Layer 10    size: [32, 32, 8]"]
+Layer11 [label="Layer 11    size: [32, 32, 8]"]
+Layer12 [label="Layer 12   size: [64, 64, 4]"]
+Output [label="Output    size: [64, 64, 3]"]
+
+Input->Layer1 [label="  Convolution    kernel: [6, 6], stride: [2, 2], pad: [2, 2]  "]
+Layer1->Layer2 [label="  Convolution    kernel: [6, 6], stride: [2, 2], pad: [2, 2]  "]
+Layer2->Layer3 [label="  Convolution    kernel: [6, 6], stride: [2, 2], pad: [2, 2]  "]
+Layer3->Layer4 [label="  Convolution    kernel: [6, 6], stride: [2, 2], pad: [2, 2]  "]
+Layer4->Layer5 [label="  Convolution    kernel: [4, 4], stride: [1, 1], pad: [0, 0]  "]
+Layer5->Layer6 [label="  Convolution    kernel: [1, 1], stride: [1, 1], pad: [0, 0]  "]
+Layer6->Layer7 [label="  Deconvolution    kernel: [4, 4], stride: [1, 1], pad: [0, 0]  "]
+Layer7->Layer8 [label="  Deconvolution    kernel: [6, 6], stride: [2, 2], pad: [2, 2]  "]
+Layer8->Layer9 [label="  Deconvolution    kernel: [6, 6], stride: [2, 2], pad: [2, 2]  "]
+Layer9->Layer10 [label="  Deconvolution    kernel: [6, 6], stride: [2, 2], pad: [2, 2]  "]
+Layer10->Layer11 [label="  Shortcut    layer: 1"]
+Layer11->Layer12 [label="  Deconvolution    kernel: [6, 6], stride: [2, 2], pad: [2, 2]  "]
+Layer12->Output [label="  Convolution    kernel: [3, 3], stride: [1, 1], pad: [1, 1]  "]
+
+}
