@@ -29,17 +29,17 @@ Following is the result for Model A:
 Following is the result for Model B:
 <table>
 <tr><th>input</th><th>output</th></tr>	
-<tr><td><img src="model_b/files/Predict/64/luxun.png" width="256px" /></td>
+<tr><td><img src="model_b/files/Predict/group2/64/luxun.png" width="256px" /></td>
 <td><img src="model_b/files/output/64/luxun.png" width="256px" /></td></tr>
-<tr><td><img src="model_b/files/Predict/64/chengmei.png" width="256px" /></td>
+<tr><td><img src="model_b/files/Predict/group2/64/chengmei.png" width="256px" /></td>
 <td><img src="model_b/files/output/64/chengmei.png" width="256px" /></td></tr>
-<tr><td><img src="model_b/files/Predict/64/leifeng.png" width="256px" /></td>
+<tr><td><img src="model_b/files/Predict/group2/64/leifeng.png" width="256px" /></td>
 <td><img src="model_b/files/output/64/leifeng.png" width="256px" /></td></tr>
-<tr><td><img src="model_b/files/Predict/64/marie_curie.png" width="256px" /></td>
+<tr><td><img src="model_b/files/Predict/group2/64/marie_curie.png" width="256px" /></td>
 <td><img src="model_b/files/output/64/marie_curie.png" width="256px" /></td></tr>
-<tr><td><img src="model_b/files/Predict/64/carson.png" width="256px" /></td>
+<tr><td><img src="model_b/files/Predict/group2/64/carson.png" width="256px" /></td>
 <td><img src="model_b/files/output/64/carson.png" width="256px" /></td></tr>
-<tr><td><img src="model_b/files/Predict/64/turing.png" width="256px" /></td>
+<tr><td><img src="model_b/files/Predict/group2/64/turing.png" width="256px" /></td>
 <td><img src="model_b/files/output/64/turing.png" width="256px" /></td></tr>
 </table>
 
