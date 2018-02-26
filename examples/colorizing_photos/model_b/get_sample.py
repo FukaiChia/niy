@@ -70,8 +70,8 @@ for path in paths:
 # paths = ['files/Predict/group2/64/chengmei.png']
 # paths = ['files/Predict/group2/64/turing.png']
 # paths = ['files/Predict/group2/64/marie_curie.png']
-# paths = ['files/Predict/group2/64/luxun.png']
-paths = ['files/Predict/group2/64/carson.png']
+paths = ['files/Predict/group2/64/luxun.png']
+# paths = ['files/Predict/group2/64/carson.png']
 
 for path in paths:
 	X = get_predict_sample(path)
