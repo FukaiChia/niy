@@ -1,5 +1,6 @@
 {	
-	RateInit: 0.015e-2,
+	RateInit: 4e-2,
+	
 	RateDecay: 0.95,
 
 	Load: 2,
@@ -11,7 +12,7 @@
 	LossType: 'mse',
 	LossInit: 5000,
 
-	Regularization: 8000,
+	Regularization: 0.002,
 	
 	Image: {
 		Draw: true,

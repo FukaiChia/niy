@@ -126,6 +126,7 @@ Niy uses [CON](https://github.com/microic/con) to define model and conf files
 | Group | split the channels into groups | 1 |
 | Dropout | dropout | null |
 | Shortcut | shortcut to one top layer | null |
+| Offset | channel offset for shortcut layer | 0 |
 
 ### Conf
 | Name | Description | Default |
