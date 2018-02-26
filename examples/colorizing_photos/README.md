@@ -47,6 +47,6 @@ Reference
 ----
 * https://github.com/emilwallner/Coloring-greyscale-images-in-Keras
 * https://github.com/richzhang/colorization/tree/master/colorization
-* https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix
+* https://github.com/phillipi/pix2pix
 
 [Github Link](https://github.com/microic/niy/tree/master/examples/colorizing_photos)

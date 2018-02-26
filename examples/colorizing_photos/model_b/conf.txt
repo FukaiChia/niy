@@ -5,7 +5,7 @@
 
 	Load: 2,
 
-	EpochTrain: 20,
+	EpochTrain: 0,
 	EpochDecay: 10,
 	EpochLog: 1,
 
