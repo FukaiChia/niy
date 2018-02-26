@@ -17,13 +17,13 @@ Following is the result for Model A:
 <table>
 <tr><th>input</th><th>output</th></tr>	
 <tr><td><img src="model_a/files/Predict/group2/chengmei.png" width="256px" /></td>
-<td><img src="model_a/files/output/chengmei.png" width="256px" /></td></tr>
+<td><img src="model_a/files/Predict/group2/output/chengmei.png" width="256px" /></td></tr>
 <tr><td><img src="model_a/files/Predict/group2/leifeng.png" width="256px" /></td>
-<td><img src="model_a/files/output/leifeng.png" width="256px" /></td></tr>
+<td><img src="model_a/files/Predict/group2/output/leifeng.png" width="256px" /></td></tr>
 <tr><td><img src="model_a/files/Predict/group2/marie_curie.png" width="256px" /></td>
-<td><img src="model_a/files/output/marie_curie.png" width="256px" /></td></tr>
+<td><img src="model_a/files/Predict/group2/output/marie_curie.png" width="256px" /></td></tr>
 <tr><td><img src="model_a/files/Predict/group2/turing.png" width="256px" /></td>
-<td><img src="model_a/files/output/turing.png" width="256px" /></td></tr>
+<td><img src="model_a/files/Predict/group2/output/turing.png" width="256px" /></td></tr>
 </table>
 
 Following is the result for Model B:
