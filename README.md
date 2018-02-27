@@ -126,7 +126,7 @@ Niy uses [CON](https://github.com/microic/con) to define model and conf files
 | Dropout | dropout | null |
 | Shortcut | shortcut to one top layer | null |
 | Offset | channel offset for shortcut layer | 0 |
-| IsContinuous | connect to the last layer or not, used in multi-branch network | true |
+| IsContinuous | whether or not to connect to the previous layer, used in multi-branch network | true |
 
 ### Conf
 | Name | Description | Default |
