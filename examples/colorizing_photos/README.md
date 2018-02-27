@@ -41,6 +41,8 @@ Following is the result for Model B:
 <td><img src="model_b/files/Predict/group2/64/output/carson.png" width="256px" /></td></tr>
 <tr><td><img src="model_b/files/Predict/group2/64/turing.png" width="256px" /></td>
 <td><img src="model_b/files/Predict/group2/64/output/turing.png" width="256px" /></td></tr>
+<tr><td><img src="model_b/files/Predict/group2/64/tiger.png" width="256px" /></td>
+<td><img src="model_b/files/Predict/group2/64/output/tiger.png" width="256px" /></td></tr>
 </table>
 
 Reference
