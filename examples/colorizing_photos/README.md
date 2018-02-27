@@ -44,7 +44,7 @@ Following is the result for Model B:
 <tr><td><img src="model_b/files/Predict/group2/64/tiger.png" width="256px" /></td>
 <td><img src="model_b/files/Predict/group2/64/output/tiger.png" width="256px" /></td></tr>
 </table>
-The color of tiger is total guessed
+The color of tiger is guessed based on human faces
 
 Reference
 ----
