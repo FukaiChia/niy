@@ -36,9 +36,6 @@ def get_predict_sample(filepath):
 	print(X.shape, X.max(), X.min())	
 	return X
 
-# get_predict_sample(r"files\Predict\group2\64\tiger.png")
-# os._exit(0)
-
 train_in_bytes = bytearray()
 train_in_head = np.zeros(8).astype('int32')
 train_in_head[1:4] = [IMG_WIDTH, IMG_HEIGHT, 1]
