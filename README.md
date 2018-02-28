@@ -5,14 +5,6 @@ A super mini but powerful deep learning framework written in pure c language
 | **`Windows`** | **`Linux`** | **`Raspberry Pi`** |
 |--|--|--|
 
-To avoid competition with TensorFlow/PyTorch/Keras/Caffe..., we plan to focus on microcontroller side:
-+ **Flash**<br>
-By removing some unnecessary parts(BMP module, CON module...), Niy can run on a microcontroller with only 64kB flash
-+ **Memory**<br>
-Niy only uses SGD(no momentum) which occupies less RAM than batch SGD/RMSProp/Adadelta/Adam...
-+ **Speed**<br>
-To reduce the amount of computation, Niy does not use sigmoid/tanh/softmax...
-
 Installation
 ----
 Select one of the following experiments
