@@ -5,5 +5,3 @@ CNN(Convolutional Neural Network) is absolutely good, but here we will only disc
 #### Coupling
 <img src="files/convolution.png" height="320px" /><br>
 Coupling exists between adjacent elements of the output matrix
-
-
