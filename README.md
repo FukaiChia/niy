@@ -5,6 +5,8 @@ A super mini but powerful deep learning framework written in pure c language
 | **`Windows`** | **`Linux`** | **`Raspberry Pi`** |
 |--|--|--|
 
+**`Due to a lack of GPU, this project is stopped`**
+
 Installation
 ----
 Select one of the following experiments
