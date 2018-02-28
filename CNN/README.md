@@ -5,3 +5,7 @@ CNN(Convolutional Neural Network) is absolutely good, but here we will only disc
 #### Coupling
 <img src="files/convolution.png" height="320px" /><br>
 Coupling exists between adjacent elements of the output matrix
+
+Reference
+----
+* [Understanding and Improving Convolutional Neural Networks via Concatenated Rectified Linear Units](https://arxiv.org/abs/1603.05201)
