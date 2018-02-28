@@ -3,7 +3,7 @@
 A super mini but powerful deep learning framework written in pure c language
 
 | **`Windows`** | **`Linux`** |
-|--|--|--|
+|--|--|
 
 Installation
 ----
