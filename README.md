@@ -2,10 +2,8 @@
 ====
 A super mini but powerful deep learning framework written in pure c language
 
-| **`Windows`** | **`Linux`** | **`Raspberry Pi`** |
+| **`Windows`** | **`Linux`** |
 |--|--|--|
-
-**`Due to a lack of GPU, this project is stopped`**
 
 Installation
 ----
