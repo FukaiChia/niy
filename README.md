@@ -5,7 +5,7 @@ A super mini but powerful deep learning framework written in pure c language
 | **`Windows`** | **`Linux`** |
 |--|--|
 
-# Due to a lack of time, this project is closed
+## Due to a lack of time, this project is closed
 
 Installation
 ----
