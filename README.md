@@ -1,12 +1,11 @@
 [Niy](https://github.com/microic/niy)
 ====
 A super mini but powerful deep learning framework written in pure c language
-<br><img src="easy.jpg" width="320px" />
 
 | **`Windows`** | **`Linux`** |
 |--|--|
 
-## Due to a lack of time, this project is closed
+# Due to a lack of time, this project is closed
 
 Installation
 ----
