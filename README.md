@@ -119,6 +119,7 @@ Niy uses [CON](https://github.com/microic/con) to define model and conf files
 | IsLocal | switch to locally connected layer | false |
 | IsReverse | switch to deconvolution layer<br>*deconvolution means the reverse operation of convolution here, not transposed convolution* | false |
 | IsMerge | switch to merge layer | 1 |
+| IsFar | switch to far convolution/deconvolution layer | 1 |
 | Group | split the channels into groups | 1 |
 | Dropout | dropout | null |
 | Shortcut | shortcut to one top layer | null |
