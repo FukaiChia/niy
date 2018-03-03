@@ -31,7 +31,7 @@ Why Niy?
 
 Supported Features
 ----
-### New Features
+### `New Features`
 * Far Convolution
 * Far Deconvolution
 ### Layers
