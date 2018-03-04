@@ -1,11 +1,13 @@
 {
 	Load: 0,
 	
-	RateInit: 0.01,
+	RateInit: 0.02,
 
-	EpochTrain: 3,
+	EpochTrain: 8,
 	EpochDecay: 0.2,
 	EpochLog: 0.2,
+
+	Regularization: 2,
 
 	InputType: 'pointwise',
 	LossType: 'max',
@@ -16,4 +18,5 @@
 	},
 
 	FreqTest: 2,
+	FreqSave: 1,
 }
