@@ -68,14 +68,15 @@ Let's take the famous mnist dataset as example
     {
         Load: 0,
         
-        RateInit: 0.01,
+        RateInit: 0.02,
 
-        EpochTrain: 3,
+        EpochTrain: 8,
         EpochDecay: 0.2,
         EpochLog: 0.2,
 
         InputType: 'pointwise',
         LossType: 'max',
+        Regularization: 2,
 
         Image: {
           Draw: true,
@@ -88,7 +89,7 @@ Let's take the famous mnist dataset as example
 ### Step 3: Run
     # niy conf.txt
 
-You will get a test accuracy around 98% after one or two minutes
+You will get a test accuracy around 98.5% after a few minutes
 
 Tutorial
 ----
