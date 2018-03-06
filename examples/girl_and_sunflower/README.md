@@ -1,7 +1,6 @@
 A Simple Example To Learn Deconvolution And Locally Connected Deconvolution
 ====
 In this example, we will test two networks(Model A and Model B), Model B is similar to Model A except that Model B uses locally connected deconvolution
-
 <br><b>Model A</b><br><img src="files/model_a.png" max-width="500px" /><br>
 <br><b>Model B</b><br><img src="files/model_b.png" max-width="500px" /><br>
 
