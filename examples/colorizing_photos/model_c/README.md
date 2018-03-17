@@ -1,1 +1,0 @@
-This model needs GPU support which is not implemented in Niy
