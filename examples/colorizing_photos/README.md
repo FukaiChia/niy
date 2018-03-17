@@ -46,7 +46,7 @@ Following is the result for Model B:
 </table>
 The color of tiger is guessed based on human faces<br>
 <br>
-To get better result, simply imcrease the number and size of train samples, but it will take much more time to train
+To get a better result, simply increase the number and size of train samples, but it will take much more time to train
 
 <!--
 Following is the result using 645 train samples:
