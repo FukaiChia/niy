@@ -20,10 +20,6 @@ Following is the result for Model A:
 <td><img src="model_a/files/Predict/group2/output/chengmei.png" width="256px" /></td></tr>
 <tr><td><img src="model_a/files/Predict/group2/leifeng.png" width="256px" /></td>
 <td><img src="model_a/files/Predict/group2/output/leifeng.png" width="256px" /></td></tr>
-<tr><td><img src="model_a/files/Predict/group2/marie_curie.png" width="256px" /></td>
-<td><img src="model_a/files/Predict/group2/output/marie_curie.png" width="256px" /></td></tr>
-<tr><td><img src="model_a/files/Predict/group2/turing.png" width="256px" /></td>
-<td><img src="model_a/files/Predict/group2/output/turing.png" width="256px" /></td></tr>
 </table>
 
 Following is the result for Model B:
@@ -37,8 +33,6 @@ Following is the result for Model B:
 <td><img src="model_b/files/Predict/group2/64/output/leifeng.png" width="256px" /></td></tr>
 <tr><td><img src="model_b/files/Predict/group2/64/marie_curie.png" width="256px" /></td>
 <td><img src="model_b/files/Predict/group2/64/output/marie_curie.png" width="256px" /></td></tr>
-<tr><td><img src="model_b/files/Predict/group2/64/carson.png" width="256px" /></td>
-<td><img src="model_b/files/Predict/group2/64/output/carson.png" width="256px" /></td></tr>
 <tr><td><img src="model_b/files/Predict/group2/64/turing.png" width="256px" /></td>
 <td><img src="model_b/files/Predict/group2/64/output/turing.png" width="256px" /></td></tr>
 <tr><td><img src="model_b/files/Predict/group2/64/tiger.png" width="256px" /></td>
