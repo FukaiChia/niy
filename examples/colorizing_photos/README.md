@@ -4,9 +4,9 @@ In this example, you will learn how to use artificial neural network for coloriz
 
 We designed two models:<br>
 **Model A**
-<br><img src="model_a/files/model.png" max-width="400px" /><br>
+<br><img src="model_a/files/model.png" max-width="320px" /><br>
 **Model B**
-<br><img src="model_b/files/model.png" max-width="400px" /><br>
+<br><img src="model_b/files/model.png" max-width="320px" /><br>
 
 Input is black and white photo, output is colorized photo
 
