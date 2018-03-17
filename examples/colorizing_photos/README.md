@@ -35,10 +35,10 @@ Following is the result for Model B:
 <td><img src="model_b/files/Predict/group2/64/output/chengmei.png" width="192px" /></td></tr>
 <tr><td><img src="model_b/files/Predict/group2/64/leifeng.png" width="192px" /></td>
 <td><img src="model_b/files/Predict/group2/64/output/leifeng.png" width="192px" /></td></tr>
-<tr><td><img src="model_b/files/Predict/group2/64/marie_curie.png" width="192px" /></td>
-<td><img src="model_b/files/Predict/group2/64/output/marie_curie.png" width="192px" /></td></tr>
 <tr><td><img src="model_b/files/Predict/group2/64/carson.png" width="192px" /></td>
 <td><img src="model_b/files/Predict/group2/64/output/carson.png" width="192px" /></td></tr>
+<tr><td><img src="model_b/files/Predict/group2/64/marie_curie.png" width="192px" /></td>
+<td><img src="model_b/files/Predict/group2/64/output/marie_curie.png" width="192px" /></td></tr>
 <tr><td><img src="model_b/files/Predict/group2/64/turing.png" width="192px" /></td>
 <td><img src="model_b/files/Predict/group2/64/output/turing.png" width="192px" /></td></tr>
 <tr><td><img src="model_b/files/Predict/group2/64/tiger.png" width="192px" /></td>
@@ -56,10 +56,10 @@ Following is the result using 645 train samples:
 <td><img src="dataset/files/Predict/group2/output/chengmei.png" width="192px" /></td></tr>
 <tr><td><img src="dataset/files/Predict/group2/leifeng.png" width="192px" /></td>
 <td><img src="dataset/files/Predict/group2/output/leifeng.png" width="192px" /></td></tr>
-<tr><td><img src="dataset/files/Predict/group2/marie_curie.png" width="192px" /></td>
-<td><img src="dataset/files/Predict/group2/output/marie_curie.png" width="192px" /></td></tr>
 <tr><td><img src="dataset/files/Predict/group2/carson.png" width="192px" /></td>
 <td><img src="dataset/files/Predict/group2/output/carson.png" width="192px" /></td></tr>
+<tr><td><img src="dataset/files/Predict/group2/marie_curie.png" width="192px" /></td>
+<td><img src="dataset/files/Predict/group2/output/marie_curie.png" width="192px" /></td></tr>
 <tr><td><img src="dataset/files/Predict/group2/turing.png" width="192px" /></td>
 <td><img src="dataset/files/Predict/group2/output/turing.png" width="192px" /></td></tr>
 <tr><td><img src="dataset/files/Predict/group2/franklin.png" width="192px" /></td>
