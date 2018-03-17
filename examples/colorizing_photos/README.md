@@ -44,9 +44,9 @@ Following is the result for Model B:
 <tr><td><img src="model_b/files/Predict/group2/64/tiger.png" width="256px" /></td>
 <td><img src="model_b/files/Predict/group2/64/output/tiger.png" width="256px" /></td></tr>
 </table>
-The color of tiger is guessed based on human faces
+The color of tiger is guessed based on human faces<br>
 
-To get better result, simply imcrease the number and size of train samples
+To get better result, simply imcrease the number and size of train samples, but it will take much more time to train
 
 <!--
 Following is the result using 645 train samples:
