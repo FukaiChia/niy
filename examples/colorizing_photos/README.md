@@ -46,6 +46,12 @@ Following is the result for Model B:
 </table>
 The color of tiger is guessed based on human faces
 
+To get better result, simply imcrease the number and size of train samples
+
+<!--
+Following is the result using 645 train samples:
+-->
+
 Reference
 ----
 * https://github.com/emilwallner/Coloring-greyscale-images-in-Keras
