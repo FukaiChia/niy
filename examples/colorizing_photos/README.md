@@ -50,14 +50,22 @@ To get a better result, simply increase the number and size of train samples, bu
 Following is the result using 645 train samples:
 <table>
 <tr><th>input</th><th>output</th></tr>	
+<tr><td><img src="dataset/files/Predict/group2/luxun.png" width="192px" /></td>
+<td><img src="dataset/files/Predict/group2/output/luxun.png" width="192px" /></td></tr>
 <tr><td><img src="dataset/files/Predict/group2/chengmei.png" width="192px" /></td>
 <td><img src="dataset/files/Predict/group2/output/chengmei.png" width="192px" /></td></tr>
 <tr><td><img src="dataset/files/Predict/group2/leifeng.png" width="192px" /></td>
 <td><img src="dataset/files/Predict/group2/output/leifeng.png" width="192px" /></td></tr>
 <tr><td><img src="dataset/files/Predict/group2/marie_curie.png" width="192px" /></td>
 <td><img src="dataset/files/Predict/group2/output/marie_curie.png" width="192px" /></td></tr>
+<tr><td><img src="dataset/files/Predict/group2/carson.png" width="192px" /></td>
+<td><img src="dataset/files/Predict/group2/output/carson.png" width="192px" /></td></tr>
 <tr><td><img src="dataset/files/Predict/group2/turing.png" width="192px" /></td>
 <td><img src="dataset/files/Predict/group2/output/turing.png" width="192px" /></td></tr>
+<tr><td><img src="dataset/files/Predict/group2/franklin.png" width="192px" /></td>
+<td><img src="dataset/files/Predict/group2/output/franklin.png" width="192px" /></td></tr>
+<tr><td><img src="dataset/files/Predict/group2/nobel.png" width="192px" /></td>
+<td><img src="dataset/files/Predict/group2/output/nobel.png" width="192px" /></td></tr>
 </table>
 
 Reference
