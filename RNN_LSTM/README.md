@@ -4,8 +4,8 @@ We have no intention to implement classic RNN/LSTM, instead we will redesign RNN
 
 To reduce the amount of work, new RNN should be as similar to CNN as possible, thus we can reuse the code of CNN
 
-Some possible ideas:
-<img src="file/model.png" />
+Some possible ideas:<br>
+<img src="files/model.png" />
 
 Reference
 ----
