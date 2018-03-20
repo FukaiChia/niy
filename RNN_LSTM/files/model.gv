@@ -1,0 +1,70 @@
+digraph nn{
+
+edge[
+	_color = pink
+	nodesep = 0.5
+	ranksep = 0.5
+	weight = 0.5
+	height = 0.5
+]
+node[
+	_shape = rectangle 
+	color = gray 
+	_style = filled
+	_width = 0.1
+	_height = 0.1
+	label = ""
+	nodesep = 0.5
+	ranksep = 0.5
+]
+graph[
+	nodesep = 0.5
+	ranksep = 0.5
+	_rankdir = LR
+]
+
+Xp0 [label=<X<SUB>0, t-1</SUB>>]
+H0 [label=<h<SUB>0, t-1</SUB>>]
+X0 [label=<X<SUB>0, t</SUB>>]
+
+Xp1 [label=<X<SUB>1, t-1</SUB>>]
+H1 [label=<h<SUB>1, t-1</SUB>>]
+X1 [label=<X<SUB>1, t</SUB>>]
+
+Xp2 [label=<X<SUB>2, t-1</SUB>>]
+H2 [label=<h<SUB>2, t-1</SUB>>]
+X2 [label=<X<SUB>2, t</SUB>>]
+
+Xp3 [label=<X<SUB>3, t-1</SUB>>]
+H3 [label=<h<SUB>3, t-1</SUB>>]
+X3 [label=<X<SUB>3, t</SUB>>]
+
+Xp4 [label=<X<SUB>4, t-1</SUB>>]
+H4 [label=<h<SUB>4, t-1</SUB>>]
+X4 [label=<X<SUB>4, t</SUB>>]
+
+Xp0->Xp1 [style=invis]
+H0->Xp1 [style=invis]
+H0->H1 [style=invis]
+Xp0->H1
+X0->X1
+H0->X1 [style=invis]
+
+Xp1->Xp2 [style=invis]
+H1->H2
+Xp1->H2
+X1->X2
+H1->X2
+
+Xp2->Xp3 [style=invis]
+H2->H3
+Xp2->H3
+X2->X3
+H2->X3
+
+Xp3->Xp4 [style=invis]
+H3->H4
+Xp3->H4
+X3->X4
+H3->X4
+}
