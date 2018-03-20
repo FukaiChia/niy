@@ -45,10 +45,10 @@ X4 [label=<X<SUB>4, t</SUB>>]
 
 Xp0->Xp1 [style=invis]
 H0->Xp1 [style=invis]
-H0->H1 [style=invis]
+H0->H1 
 Xp0->H1
 X0->X1
-H0->X1 [style=invis]
+H0->X1 
 
 Xp1->Xp2 [style=invis]
 H1->H2
